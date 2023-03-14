@@ -1,0 +1,59 @@
+==> 2023-03-14 12:41:57 <==
+# cmd: /home/ishan/miniconda3/bin/conda create --prefix ./env python=3.7 -y
+# conda version: 23.1.0
++defaults/linux-64::_libgcc_mutex-0.1-main
++defaults/linux-64::_openmp_mutex-5.1-1_gnu
++defaults/linux-64::ca-certificates-2023.01.10-h06a4308_0
++defaults/linux-64::certifi-2022.12.7-py37h06a4308_0
++defaults/linux-64::ld_impl_linux-64-2.38-h1181459_1
++defaults/linux-64::libffi-3.4.2-h6a678d5_6
++defaults/linux-64::libgcc-ng-11.2.0-h1234567_1
++defaults/linux-64::libgomp-11.2.0-h1234567_1
++defaults/linux-64::libstdcxx-ng-11.2.0-h1234567_1
++defaults/linux-64::ncurses-6.4-h6a678d5_0
++defaults/linux-64::openssl-1.1.1t-h7f8727e_0
++defaults/linux-64::pip-22.3.1-py37h06a4308_0
++defaults/linux-64::python-3.7.16-h7a1cb2a_0
++defaults/linux-64::readline-8.2-h5eee18b_0
++defaults/linux-64::setuptools-65.6.3-py37h06a4308_0
++defaults/linux-64::sqlite-3.40.1-h5082296_0
++defaults/linux-64::tk-8.6.12-h1ccaba5_0
++defaults/linux-64::wheel-0.38.4-py37h06a4308_0
++defaults/linux-64::xz-5.2.10-h5eee18b_1
++defaults/linux-64::zlib-1.2.13-h5eee18b_0
+# update specs: ['python=3.7']
+==> 2023-03-14 13:11:19 <==
+# cmd: /home/ishan/miniconda3/condabin/conda install -c conda-forge --prefix /home/ishan/ML/Project/DNN/env ipykernel -y
+# conda version: 23.1.0
+-defaults/linux-64::ca-certificates-2023.01.10-h06a4308_0
+-defaults/linux-64::certifi-2022.12.7-py37h06a4308_0
++conda-forge/linux-64::ca-certificates-2022.12.7-ha878542_0
++conda-forge/linux-64::ipykernel-5.5.5-py37h085eea5_0
++conda-forge/linux-64::ipython-7.33.0-py37h89c1867_0
++conda-forge/linux-64::jupyter_client-5.3.4-py37_0
++conda-forge/linux-64::libsodium-1.0.18-h36c2ea0_1
++conda-forge/linux-64::python_abi-3.7-2_cp37m
++conda-forge/linux-64::pyzmq-19.0.2-py37hac76be4_2
++conda-forge/linux-64::tornado-6.1-py37h540881e_3
++conda-forge/linux-64::zeromq-4.3.4-h9c3ff4c_1
++conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
++conda-forge/noarch::backports-1.0-pyhd8ed1ab_3
++conda-forge/noarch::backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0
++conda-forge/noarch::certifi-2022.12.7-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::entrypoints-0.4-pyhd8ed1ab_0
++conda-forge/noarch::ipython_genutils-0.2.0-py_1
++conda-forge/noarch::jedi-0.18.2-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_core-4.5.0-py_0
++conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
++conda-forge/noarch::pexpect-4.8.0-pyh1a96a4e_2
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::prompt-toolkit-3.0.38-pyha770c72_0
++conda-forge/noarch::ptyprocess-0.7.0-pyhd3deb0d_0
++conda-forge/noarch::pygments-2.14.0-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::traitlets-5.9.0-pyhd8ed1ab_0
++conda-forge/noarch::wcwidth-0.2.6-pyhd8ed1ab_0
+# update specs: ['ipykernel']

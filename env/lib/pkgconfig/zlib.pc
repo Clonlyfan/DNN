@@ -1,0 +1,13 @@
+prefix=/home/ishan/ML/Project/DNN/env
+exec_prefix=/home/ishan/ML/Project/DNN/env
+libdir=/home/ishan/ML/Project/DNN/env/lib
+sharedlibdir=/home/ishan/ML/Project/DNN/env/lib
+includedir=/home/ishan/ML/Project/DNN/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
